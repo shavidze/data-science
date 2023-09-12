@@ -1,16 +1,5 @@
-import numpy as np
 # alias
-
-
-print(np.__version__)
-a = np.array([1,2,3])
-
-print(a)
-
-msg = "Roll a dice"
-
-print(msg)
-
+import numpy as np
 
 # np linspace
 
