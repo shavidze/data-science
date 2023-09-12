@@ -43,7 +43,6 @@ print(arr4)
 
 ## Non-integer Steps:
 ## Generate 7 numbers between 1.5 and 4.5.
-
 arr5 = np.linspace(1.5, 4.5, 7)
 
 print(arr5)
